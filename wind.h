@@ -11,6 +11,7 @@ public:
 public slots:
     void upDir();
     void inDir();
+    void openFile();
 };
 
 #endif // WIND_H

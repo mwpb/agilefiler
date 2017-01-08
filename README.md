@@ -1,2 +1,2 @@
 # agilefiler
-File manager (with labels and previews)
+File manager
